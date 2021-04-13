@@ -7,5 +7,5 @@ the DataBase and all other file include.
 Plese Contact Oananbeh@outlook.com For any Qustions
 
 
-Open source (licensed under Apache-2.0)
+Open source (<a href="https://github.com/oananbeh/Free-Online-Exam-Practice-Test/blob/master/LICENSE"> licensed under Apache-2.0</a>)
 
